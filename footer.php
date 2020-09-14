@@ -1,1 +1,0 @@
-<div id="footer">TreeZoX 2020 - 2021</div>
